@@ -28,4 +28,8 @@
 第10层也是一个卷积层，其与其他层不同的部分是卷积核数目为1，激活函数为sigmoid，恢复图片大小为60x60x1。 <br>
 以上便是去噪模型的网络结构。 <br>
 
+#### 卷积特征提取过程： <br>
+![image](https://github.com/lulu-313/DNN_Denoising/blob/master/image/%E5%88%87%E7%89%87.png)<br> 
+
+
  
