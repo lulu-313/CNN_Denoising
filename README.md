@@ -11,4 +11,4 @@
 *  将输入样本压缩到隐层，然后解压，在输出端重建样本 <br>
 *  通过网络学习将冗余信息去掉，将有用信息输入到隐层中，通过隐层的特征信息重建得到无噪声的图片 <br> 
 #### 网络结构图： <br>
-![image](https://github.com/lulu-313/DNN_Denoising/blob/master/image/%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E5%9B%BE.png)<br> 
+　　　　　![image](https://github.com/lulu-313/DNN_Denoising/blob/master/image/%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E5%9B%BE.png)<br> 
