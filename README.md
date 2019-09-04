@@ -29,7 +29,7 @@
 以上便是去噪模型的网络结构。 <br>
 
 #### 卷积特征提取过程： <br>
-![image](https://github.com/lulu-313/DNN_Denoising/blob/master/image/%E5%88%87%E7%89%87.png)<br> 
+![image](https://github.com/lulu-313/DNN_Denoising/blob/master/image/%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E8%BF%87%E7%A8%8B.png)<br> 
 
 
  
